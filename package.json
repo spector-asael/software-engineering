@@ -1,0 +1,21 @@
+{
+  "name": "lab1-software-engineering",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/spector-asael/software-engineering#readme",
+  "bugs": {
+    "url": "https://github.com/spector-asael/software-engineering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spector-asael/software-engineering.git"
+  },
+  "license": "ISC",
+  "author": "Asael Tobar",
+  "type": "commonjs",
+  "main": "./app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
+  }
+}
